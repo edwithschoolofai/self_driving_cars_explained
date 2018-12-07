@@ -126,4 +126,4 @@
 
 ## 크레딧
 
-이 코드의 크레딧은 [upul](https://github.com/upul/Behavioral-Cloning)에 . 
+이 코드의 크레딧은 [upul](https://github.com/upul/Behavioral-Cloning)에 있습니다. 
